@@ -18,3 +18,9 @@ Se detalla la lógica interna de las apps:
 
 ### 5. Punto de Inflexión → Codificación
 Construcción del código fuente, configuración de contenedores y despliegue local.
+
+## 6 Stack Tecnológico
+- **Backend:** Python 3.12 + Django 5.0.6
+- **Base de Datos:** PostgreSQL 16
+- **Frontend:** Vite.js (estructura base en carpeta `/frontend`)
+- **Contenedores:** Docker + Docker Compose
