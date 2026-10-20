@@ -1,0 +1,19 @@
+# Variables de entorno (¡NUNCA subir el .env real!)
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
